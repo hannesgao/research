@@ -185,12 +185,12 @@ Connecting Orderly to Polygon via LayerZero, and then to Silicon Chain through A
 - **Priority**: High
 - **TO DO**: Implement and deploy our own special relay contracts on Polygon and Silicon Chain to achieve message passing through AggLayer
 
-#### Phase 2: Functional Optimization Integration (1-2 months)
+#### 4.1.2 Phase 2: Functional Optimization Integration (1-2 months)
 - **Target**: Achieve unified liquidity and state sharing
 - **Scope**: Smart contract calls, message passing
 - **Priority**: Medium
 
-#### Phase 3: User Experience Optimization (1-2 months)
+#### 4.1.3 Phase 3: User Experience Optimization (1-2 months)
 - **Target**: Achieve better cross-chain experience
 - **Scope**: Fee and UX optimization
 - **Priority**: Medium
