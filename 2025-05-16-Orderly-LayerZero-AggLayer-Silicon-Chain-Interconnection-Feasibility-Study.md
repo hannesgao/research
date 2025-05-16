@@ -246,7 +246,7 @@ If LayerZero does not consider supporting Silicon Chain, and we decide that we m
 
 ### 6.2 Update Log of this Rearch Report
 
-- **2024-05-16**: Initial report completed
+- **2024-05-16**: Initial report completed by Hannes Gao (hannes@orderly.network)
 
 > **Notice:** Subsequent versions will be updated based on research and the decision-making progress of our team.
 
